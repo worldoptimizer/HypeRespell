@@ -6,11 +6,6 @@ Just putting it here, to archive it and maybe be worked on again in the future.
 
 ---
 
-
-## Sneak peak
-
-https://cln.sh/cfoEe8a9dki6nyyEYQ7i
-
 ## Ideas, concepts and goals: 
 
 * it’s a single PHP file you drop into your server directory alongside your hype file.
