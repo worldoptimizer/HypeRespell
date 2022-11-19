@@ -27,7 +27,7 @@ The reasoning behind a tree view is that not all data can be linked to something
 3. Indentation is based on the hierarchy of the object being viewed
 4. The tree viewer is fixed to the right side of the screen and can be scrolled with the mouse or keyboard. Down the line, I'd like a text-based search
 
-## Currently, in the works
+## Future ideas …
 
 * robust keyboard navigation
 * clicking on Data Magic field should open the edit screen as well
